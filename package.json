@@ -1,0 +1,23 @@
+{
+  "name": "guard",
+  "version": "0.0.1",
+  "description": "Guard Bot",
+  "main": "null.js",
+  "scripts": {
+    "start": "node null.js",
+    "test": "node null.js"
+  },
+  "author": "Musto",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.2",
+    "moment": "^2.29.1",
+    "mongoose": "^5.12.14",
+    "request": "^2.88.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "keywords": []
+}
